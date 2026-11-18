@@ -43,8 +43,8 @@ The model learns real structure, at about four times chance, but accuracy is mod
 ## Run it
 
 ```bash
-git clone https://github.com/sahithi-manda/PCA-ANN-Face-Recognition.git
-cd PCA-ANN-Face-Recognition
+git clone https://github.com/sahithi-manda/PCA_ANN-FaceRecogination.git
+cd PCA_ANN-FaceRecogination
 pip install -r requirements.txt
 jupyter notebook PCA_ANN_FaceRecognition.ipynb
 ```
